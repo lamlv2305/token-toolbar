@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8809E044-33E8-4A2A-8521-6D2D5F9537E2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF7048AA-5ED3-43BB-B89C-D829BC7803F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toolbar/WebsocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "websocketDidConnect(socket:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF7048AA-5ED3-43BB-B89C-D829BC7803F4 - 828eb06cdedec6f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toolbar.WebsocketConnection.didReceive(event: Starscream.WebSocketEvent, client: Starscream.WebSocketClient) -&gt; ()"
+                  moduleName = "toolbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lamlv/Documents/solo/toolbar/toolbar/WebsocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "DF7048AA-5ED3-43BB-B89C-D829BC7803F4 - 828eb06cdedec6f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toolbar.WebsocketConnection.didReceive(event: Starscream.WebSocketEvent, client: Starscream.WebSocketClient) -&gt; ()"
+                  moduleName = "toolbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lamlv/Documents/solo/toolbar/toolbar/WebsocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "696">
+               </Location>
+               <Location
+                  uuid = "DF7048AA-5ED3-43BB-B89C-D829BC7803F4 - 77810f5f989af426"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toolbar.WebsocketConnection.websocketDidConnect(socket: Starscream.WebSocketClient) -&gt; ()"
+                  moduleName = "toolbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lamlv/Documents/solo/toolbar/toolbar/WebsocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F57DBD5A-62F7-4FCA-A79E-CDDF0A0DBEBD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toolbar/WebsocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "didReceive(event:client:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F57DBD5A-62F7-4FCA-A79E-CDDF0A0DBEBD - 828eb06cdedec7a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toolbar.WebsocketConnection.didReceive(event: Starscream.WebSocketEvent, client: Starscream.WebSocketClient) -&gt; ()"
+                  moduleName = "toolbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lamlv/Documents/solo/toolbar/toolbar/WebsocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1796">
+               </Location>
+               <Location
+                  uuid = "F57DBD5A-62F7-4FCA-A79E-CDDF0A0DBEBD - 828eb06cdedec7a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toolbar.WebsocketConnection.didReceive(event: Starscream.WebSocketEvent, client: Starscream.WebSocketClient) -&gt; ()"
+                  moduleName = "toolbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lamlv/Documents/solo/toolbar/toolbar/WebsocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1304">
+               </Location>
+               <Location
+                  uuid = "F57DBD5A-62F7-4FCA-A79E-CDDF0A0DBEBD - 828eb06cdedec7a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toolbar.WebsocketConnection.didReceive(event: Starscream.WebSocketEvent, client: Starscream.WebSocketClient) -&gt; ()"
+                  moduleName = "toolbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lamlv/Documents/solo/toolbar/toolbar/WebsocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "524CB396-58A8-4A4B-8A44-D7B082D3A1A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toolbar/WebsocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "didReceive(event:client:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "524CB396-58A8-4A4B-8A44-D7B082D3A1A6 - 828eb06cdededb7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toolbar.WebsocketConnection.didReceive(event: Starscream.WebSocketEvent, client: Starscream.WebSocketClient) -&gt; ()"
+                  moduleName = "toolbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lamlv/Documents/solo/toolbar/toolbar/WebsocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "3200">
+               </Location>
+               <Location
+                  uuid = "524CB396-58A8-4A4B-8A44-D7B082D3A1A6 - 828eb06cdededb7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toolbar.WebsocketConnection.didReceive(event: Starscream.WebSocketEvent, client: Starscream.WebSocketClient) -&gt; ()"
+                  moduleName = "toolbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lamlv/Documents/solo/toolbar/toolbar/WebsocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "078836DF-8B26-4EED-8B68-16CE1F484D5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toolbar/WebsocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "didReceive(event:client:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5B489A6-AF6B-48C0-8348-4087949ECB46"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "toolbar/WebsocketConnection.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "didReceive(event:client:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D5B489A6-AF6B-48C0-8348-4087949ECB46 - 828eb06cdededb5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toolbar.WebsocketConnection.didReceive(event: Starscream.WebSocketEvent, client: Starscream.WebSocketClient) -&gt; ()"
+                  moduleName = "toolbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lamlv/Documents/solo/toolbar/toolbar/WebsocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "3136">
+               </Location>
+               <Location
+                  uuid = "D5B489A6-AF6B-48C0-8348-4087949ECB46 - 828eb06cdededabd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "toolbar.WebsocketConnection.didReceive(event: Starscream.WebSocketEvent, client: Starscream.WebSocketClient) -&gt; ()"
+                  moduleName = "toolbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lamlv/Documents/solo/toolbar/toolbar/WebsocketConnection.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "2768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
